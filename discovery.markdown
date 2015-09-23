@@ -1,4 +1,4 @@
-￼#Discovery
+# Discovery
 
 ## Find the road less traveled
 This means find the application (or parts of an application) less tested:
