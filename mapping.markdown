@@ -20,15 +20,12 @@ After bruteforcing look for other status codes indicating you are denied or requ
 
 Example:
 
-``
+````
 GET http://www.acme.com - 200
-
 GET http://www.acme.com/backlog/ - 404
-
 GET http://www.acme.com/controlpanel/ - **401 hmm.. ok**
-
 GET http://www.acme.com/controlpanel/[bruteforce here now]
-``
+````
 
 ## ￼￼Mapping/Vuln Discovery using OSINT
 Find previous/existing problem:
@@ -54,18 +51,13 @@ https://github.com/bugcrowdlabs/maps
 ### ￼Using the Maps Project: Crawling
 Using + Ruby + Anemone + JSON + Grep
 
-``
+````
 $cat test_target_json.txt | grep redirect
 
 https://test_target/redirect/?url=http://twitter.com
-
-
 https://test_target/redirect/?url=http://facebook.com/...
-
-
 https://test_target/redirect/?url=http://pinterest.com/...
-
-``
+````
 
 
 ## New Tool: Intrigue
