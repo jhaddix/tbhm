@@ -19,10 +19,14 @@
 After bruteforcing look for other status codes indicating you are denied or require auth then append list there to test for misconfigured access control.
 
 Example:
+
 ``
 GET http://www.acme.com - 200
+
 GET http://www.acme.com/backlog/ - 404
+
 GET http://www.acme.com/controlpanel/ - **401 hmm.. ok**
+
 GET http://www.acme.com/controlpanel/[bruteforce here now]
 ``
 
@@ -49,12 +53,20 @@ https://github.com/bugcrowdlabs/maps
 
 ### ￼Using the Maps Project: Crawling
 Using + Ruby + Anemone + JSON + Grep
+
 ``
 $cat test_target_json.txt | grep redirect
+
 https://test_target/redirect/?url=http://twitter.com
+
+
 https://test_target/redirect/?url=http://facebook.com/...
+
+
 https://test_target/redirect/?url=http://pinterest.com/...
+
 ``
+
 
 ## New Tool: Intrigue
 OSINT framework, simple to integrate. Features like:
