@@ -1,7 +1,8 @@
 # Discovery
 
 ## Find the road less traveled
-This means find the application (or parts of an application) less tested:
+
+This means find the application (or parts of an application) less tested. In wide scoped projects the flagship application will most liekly be heavily assessed. 
 
 - ^.acme.com scope is your friend
 - Find domains via Google (and others!)
@@ -12,6 +13,7 @@ This means find the application (or parts of an application) less tested:
 - Functionality changes or re-designs
 - Mobile websites
 - New mobile app versions
+- Searching parent company by trademark or privacy policy
 
 ## ￼Tool: Recon-ng script (enumall.sh
 https://github.com/jhaddix/domain
