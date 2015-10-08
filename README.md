@@ -23,4 +23,4 @@ The goal of the project is to incorporate more up to date resources for bug hunt
 
 ## Defcon Video
 
-[![ScreenShot](https://drive.google.com/file/d/0B15XPa08CyxhSDdHRnFvS1FrbWM/view?usp=sharing)](https://drive.google.com/file/d/0B15XPa08CyxhQ1J2T2tOUUJuSFk/view?usp=sharing)
+[![ScreenShot](https://www.dropbox.com/home/Public?preview=2015-10-08_14-57-26.png)](https://drive.google.com/file/d/0B15XPa08CyxhQ1J2T2tOUUJuSFk/view?usp=sharing)
