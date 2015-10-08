@@ -18,3 +18,5 @@ The current sections are divided as follows:
 * mobile vulnerabilities
 
 The goal of the project is to incorporate more up to date resources for bug hunters and web hackers to use during thier day-to-day work. 
+
+@jhaddix
