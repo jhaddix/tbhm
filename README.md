@@ -20,3 +20,7 @@ The current sections are divided as follows:
 The goal of the project is to incorporate more up to date resources for bug hunters and web hackers to use during thier day-to-day work. 
 
 @jhaddix
+
+## Defcon Video
+
+[![ScreenShot](https://drive.google.com/file/d/0B15XPa08CyxhSDdHRnFvS1FrbWM/view?usp=sharing)](https://drive.google.com/file/d/0B15XPa08CyxhQ1J2T2tOUUJuSFk/view?usp=sharing)
