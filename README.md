@@ -6,16 +6,19 @@ These methodology pieces are presented as an abbreviated testing methodology for
 
 The current sections are divided as follows:
 
-* philosophy
-* discovery
-* mapping
-* tactical fuzzing
-* XSS
-* SQLi
-* LFI
-* CSRF
-* web services
-* mobile vulnerabilities
+* [Philosophy](/1_Philosophy.markdown)
+* [Discovery](/2_Discovery.markdown)
+* [Mapping](/3_Mapping.markdown)
+* [Authorization and Sessions](/4_Authorization_and_Session.markdown)
+* Tactical fuzzing
+* [XSS](/5_XSS.markdown)
+* [SQLi](/6_SQLi.markdown)
+* [File Inclusion](/7_File_Upload.markdown)
+* [CSRF](/8_CSRF.markdown)
+* [Privilege, Transport and Logic](/9_Privledge_Logic_Transport.markdown)
+* Web services
+* [Mobile vulnerabilities](/10_Mobile.markdown)
+* [Auxiliary Information](/11_Auxiliary_Info.markdown)
 
 The goal of the project is to incorporate more up to date resources for bug hunters and web hackers to use during thier day-to-day work. 
 
