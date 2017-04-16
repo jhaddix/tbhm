@@ -57,7 +57,7 @@ Examples:
 - Sensitive images transported over HTTP
 - Analytics with session data / PII leaked over HTTP
 
-[ForceSSL] (https://github.com/arvinddoraiswamy/mywebappscripts/tree/master/ForceSSL)
+[ForceSSL](https://github.com/arvinddoraiswamy/mywebappscripts/tree/master/ForceSSL)
 
 ## Business Logic Flaws
 Logic flaws that are tricky, mostly manual:
