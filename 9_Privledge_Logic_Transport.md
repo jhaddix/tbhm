@@ -15,7 +15,7 @@ Testing user priv:
 - Try accessing those functions with lesser/other user roles
 - Try to directly browse to views with sensitive information as a lesser priv user
 
-Autorize Burp plugin is pretty neat [here] (https://github.com/Quitten/Autorize).
+Autorize Burp plugin is pretty neat [here](https://github.com/Quitten/Autorize).
 
 ## Common Functions or Views
 ￼
