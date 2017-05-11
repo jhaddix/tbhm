@@ -1,4 +1,4 @@
-# The Bug Hunters Methodology
+# The Bug Hunters Methodology (UNDERGOING CLEANUP)
 
 Welcome! This repo is a conglomeration of tips, tricks, tools, and data analysis to use while doing web application security assessments, and more specifically towards bug hunting in bug bounties.
 
