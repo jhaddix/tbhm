@@ -6,16 +6,16 @@ These methodology pieces are presented as an abbreviated testing methodology for
 
 The current sections are divided as follows:
 
-* [Philosophy](/1_Philosophy.markdown)
-* [Discovery](/2_Discovery.markdown)
-* [Mapping](/3_Mapping.markdown)
-* [Authorization and Sessions](/4_Authorization_and_Session.markdown)
+* [Philosophy](/01_Philosophy.markdown)
+* [Discovery](/02_Discovery.markdown)
+* [Mapping](/03_Mapping.markdown)
+* [Authorization and Sessions](/04_Authorization_and_Session.markdown)
 * Tactical fuzzing
-* [XSS](/5_XSS.markdown)
-* [SQLi](/6_SQLi.markdown)
-* [File Inclusion](/7_File_Upload.markdown)
-* [CSRF](/8_CSRF.markdown)
-* [Privilege, Transport and Logic](/9_Privledge_Logic_Transport.markdown)
+* [XSS](/05_XSS.markdown)
+* [SQLi](/06_SQLi.markdown)
+* [File Inclusion](/07_File_Upload.markdown)
+* [CSRF](/08_CSRF.markdown)
+* [Privilege, Transport and Logic](/09_Privledge_Logic_Transport.markdown)
 * Web services
 * [Mobile vulnerabilities](/10_Mobile.markdown)
 * [Auxiliary Information](/11_Auxiliary_Info.markdown)
