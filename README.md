@@ -11,10 +11,10 @@ The current sections are divided as follows:
 * [Mapping](/03_Mapping.md)
 * [Authorization and Sessions](/04_Authorization_and_Session.md)
 * Tactical fuzzing
-* [XSS](/05_XSS.md)
-* [SQLi](/06_SQLi.md)
-* [File Inclusion](/07_File_Upload.md)
-* [CSRF](/08_CSRF.md)
+** [XSS](/05_XSS.md)
+** [SQLi](/06_SQLi.md)
+** [File Inclusion](/07_File_Upload.md)
+** [CSRF](/08_CSRF.md)
 * [Privilege, Transport and Logic](/09_Privledge_Logic_Transport.md)
 * Web services
 * [Mobile vulnerabilities](/10_Mobile.md)
