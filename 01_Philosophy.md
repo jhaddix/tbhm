@@ -1,6 +1,6 @@
-#Philosophy
+# Philosophy
 
-##Differences from standard testing
+## Differences from standard testing
 Single-sourced:
 - looking mostly for common-ish vulns
 - not competing with others
@@ -14,7 +14,7 @@ Crowdsourced:
 - incentivized to find unique bugs
 - payment based on impact not number of findings
 
-##Tips / Notes:
+## Tips / Notes:
 
 - 1st party bug bounties = Google Paypal, etc
 - 2nd party bug bounties = Bugcrowd, H1, Synack, etc
