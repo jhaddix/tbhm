@@ -1,4 +1,4 @@
-#￼ Tactical Fuzzing - FI & Uploads
+# Tactical Fuzzing - FI & Uploads
 
 ## Local file inclusion
 
