@@ -1,6 +1,6 @@
-#Tactical Fuzzing - SQLi
+# Tactical Fuzzing - SQLi
 
-##SQL Injection
+## SQL Injection
 Core Idea: Does the page look like it might need to call on stored data?
 
 There exist some SQLi polyglots, i.e (Mathias Karlsson);
@@ -31,7 +31,7 @@ SQLMap is king!
 - SQLiPy Burp plugin works well to instrument SQLmap quickly.
 Lots of injection in web services!
 
-##￼Best SQL injection resources
+## ￼Best SQL injection resources
 
 - MySQL:
   - [PentestMonkey's mySQL injection cheat sheet] (http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet)
