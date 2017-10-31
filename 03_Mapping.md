@@ -38,27 +38,6 @@ Find previous/existing problem:
 
 Issues might already reported but use the flaw area and injection type to guide you to further injections or filter bypass
 
-## ￼New Project: Maps
-New OSINT/Mapping project
-- 250+ bounty programs
-- Crawl
-- DNS info + bruteforce
-- Bounty metadata (links, rewards, scope)
-- API -> Intrigue
-
-https://github.com/bugcrowdlabs/maps
-
-### ￼Using the Maps Project: Crawling
-Using + Ruby + Anemone + JSON + Grep
-
-````
-$cat test_target_json.txt | grep redirect
-
-https://test_target/redirect/?url=http://twitter.com
-https://test_target/redirect/?url=http://facebook.com/...
-https://test_target/redirect/?url=http://pinterest.com/...
-````
-
 
 ## New Tool: Intrigue
 OSINT framework, simple to integrate. Features like:
