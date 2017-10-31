@@ -1,4 +1,4 @@
-#￼ Tactical Fuzzing - FI & Uploads
+# Tactical Fuzzing - FI & Uploads
 
 ## Local file inclusion
 
@@ -26,7 +26,7 @@ As referenced file polyglots can be used to store malware on servers!
 [See @dan_crowley ‘s talk] (http://goo.gl/pquXC2)
 [and @angealbertini research:] (corkami.com)
 
-￼## Remote file includes and redirects
+## Remote file includes and redirects
 
 Look for any param with another web address in it. Same params from LFI can present here too.
 
