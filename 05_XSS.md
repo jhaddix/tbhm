@@ -53,7 +53,6 @@ Common Injection Strings:￼
 
 \%22})))}catch(e){alert(document.domain);}//
 
-```
 
 ```
 
