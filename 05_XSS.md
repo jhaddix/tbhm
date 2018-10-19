@@ -27,7 +27,7 @@ For time sensitive testing the 80/20 rule applies. Many testers use Polyglot pay
 
 
 ```
-###￼ Other XSS Observations
+### Other XSS Observations
 ```
 
 Input Vectors:
