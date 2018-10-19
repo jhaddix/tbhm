@@ -1,4 +1,4 @@
-# ￼￼￼Tactical Fuzzing - XSS
+#   Tactical Fuzzing - XSS
 
 ## XSS
 Core Idea: Does the page functionality display something to the users?
@@ -43,7 +43,7 @@ Input Vectors:
 - Login and Forgot password forms
 
 ```
-## SWF Parameter XSS
+### SWF Parameter XSS
 ```
 
 Common Params:
