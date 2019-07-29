@@ -15,7 +15,9 @@
   - WPScan
   -CMSmap
 
-##￼Directory Bruteforce Workflow
+
+## Directory Bruteforce Workflow
+
 After bruteforcing look for other status codes indicating you are denied or require auth then append list there to test for misconfigured access control.
 
 Example:
