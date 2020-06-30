@@ -21,7 +21,7 @@ https://github.com/jhaddix/domain
 ## ￼LMGTFY: Let Me GOOGLE That For You
 site:paypal.com -www.paypal.com -www.sandbox
 ￼￼
-## List of Mergers and Acquisitinos:
+## List of Mergers and Acquisitions:
 https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Facebook
 
 ## Port Scanning
