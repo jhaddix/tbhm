@@ -23,5 +23,5 @@ Because competition is introduced; when working in a bug bounty it is essential 
 
 When desigining these templates there are two really great resources to read:
 
-- https://blog.bugcrowd.com/advice-for-writing-a-great-vulnerability-report/
+- https://www.bugcrowd.com/blog/advice-for-writing-a-great-vulnerability-report/
 - https://forum.bugcrowd.com/t/writing-a-bug-report-attack-scenario-and-impact-are-key/640
