@@ -2,7 +2,7 @@
 
 # The Bug Hunter's Methodology (TBHM)
 
-Welcome! This repo is a collection of 
+Welcome! This repo is a collection of
 
  - tips  
  - tricks
@@ -10,7 +10,7 @@ Welcome! This repo is a collection of
  - data analysis
  - and notes
 
-related to web application security assessments and more specifically towards bug hunting in bug bounties. 
+related to web application security assessments and more specifically towards bug hunting in bug bounties.
 
 The current sections are divided as follows:
 
@@ -39,16 +39,15 @@ The current sections are divided as follows:
 * [Auxiliary Information](/11_Auxiliary_Info.md)
 
 
-The goal of the project is to incorporate more up to date resources for bug hunters and web hackers to use during thier day-to-day work. 
+The goal of the project is to incorporate more up to date resources for bug hunters and web hackers to use during thier day-to-day work.
 
 @jhaddix
 
 ##  History
 
-|Title| Conference | Version| Link 
+|Title| Conference | Version| Link
 |--|--|--|--|
-| How to Shot Web | Defcon 23 | 1.0 | Link |
-| The Bug Hunter's Methodology | xxx | xxx | Link |
-| The Bug Hunter's Methodology | xxx | xxx | Link |
-| The Bug Hunter's Methodology | xxx | xxx | Link |
-| The Bug Hunter's Methodology | xxx | xxx | Link |
+| How to Shot Web | Defcon 23 | 1.0 | [Link](https://www.youtube.com/watch?v=-FAjxUOKbdI) |
+| The Bug Hunter's Methodology v2 | LevelUp 2017 | 2.0 | [Link](https://www.youtube.com/watch?v=C4ZHAdI8o1w) |
+| The Bug Hunter's Methodology v3 | LevelUp 0x02 | 3.0 | [Link](https://www.youtube.com/watch?v=Qw1nNPiH_Go) |
+| The Bug Hunter's Methodology v4 | NahamCon | 4.0 | [Link](https://www.youtube.com/watch?v=p4JgIu1mceI) |
