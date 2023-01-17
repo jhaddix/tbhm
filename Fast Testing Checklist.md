@@ -2,7 +2,7 @@
 
 A combination of my own methodology and the Web Application Hacker's Handbook Task checklist, as a Github-Flavored Markdown file
 
-## Contents
+# Contents
 - [App Recon and analysis](#App-Recon-and-analysis)
 - [Test handling of access](#test-handling-of-access)
 - [Test handling of input](#test-handling-of-input)
@@ -10,9 +10,9 @@ A combination of my own methodology and the Web Application Hacker's Handbook Ta
 - [Assess application hosting](#assess-application-hosting)
 - [Miscellaneous tests](#miscellaneous-tests)
 
-## Task Checklist
+# Task Checklist
 
-### App Recon and analysis
+## App Recon and analysis
 
 - [ ] Map visible content (Manually)
 - [ ] Discover hidden & default content (Direcory/File Bruteforce)
