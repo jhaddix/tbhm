@@ -73,7 +73,7 @@ A combination of my own methodology and the Web Application Hacker's Handbook Ta
 
 ## Test application logic
 
-- [x] Identify the logic attack surface
+- [ ] Identify the logic attack surface
 - [ ] Test transmission of data via the client
 - [ ] Test for reliance on client-side input validation
 - [ ] Test any thick-client components (Java, ActiveX, Flash)
