@@ -3,7 +3,7 @@
 A combination of my own methodology and the Web Application Hacker's Handbook Task checklist, as a Github-Flavored Markdown file
 
 ## Contents
-- [Recon and analysis](#recon-and-analysis)
+- [App Recon and analysis](#App-Recon-and-analysis)
 - [Test handling of access](#test-handling-of-access)
 - [Test handling of input](#test-handling-of-input)
 - [Test application logic](#test-application-logic)
