@@ -14,15 +14,15 @@ A combination of my own methodology and the Web Application Hacker's Handbook Ta
 
 ### App Recon and analysis
 
-- [ ] Map visible content
-- [ ] Discover hidden & default content
+- [ ] Map visible content (Manually)
+- [ ] Discover hidden & default content (Direcory/File Bruteforce)
 - [ ] Test for debug parameters
-- [ ] Identify data entry points
-- [ ] Identify the technologies used
-- [ ] Research existing vulnerabilitties in technology
+- [ ] Identify data entry points (Discover Dynamic Content in Burp Pro)
+- [ ] Identify the technologies used (Wapplyzer or similiar)
+- [ ] Research existing vulnerabilitties in technology (Google ++)
 - [ ] Gather wordlists for specific techniology (Assetnote ones are excellent)
-- [ ] Map the attack surface (Spider)
-- [ ] Identify all javascript files for later analysis
+- [ ] Map the attack surface automatically (Spider)
+- [ ] Identify all javascript files for later analysis (in your proxy)
 
 ## Test handling of access
 ### - [ ] Authentication
