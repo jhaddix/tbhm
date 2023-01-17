@@ -2,7 +2,7 @@
 
 ## Find the road less traveled
 
-This means find the application (or parts of an application) less tested. In wide scoped projects the flagship application will most liekly be heavily assessed. 
+This means find the application (or parts of an application) less tested. In wide scoped projects the flagship application will most likely be heavily assessed. 
 
 - ^.acme.com scope is your friend
 - Find domains via Google (and others!)
@@ -15,7 +15,7 @@ This means find the application (or parts of an application) less tested. In wid
 - New mobile app versions
 - Searching parent company by trademark or privacy policy
 
-## ￼Tool: Recon-ng script (enumall.sh
+## ￼Tool: Recon-ng script (enumall.sh)
 https://github.com/jhaddix/domain
 
 ## ￼LMGTFY: Let Me GOOGLE That For You
@@ -25,7 +25,7 @@ site:paypal.com -www.paypal.com -www.sandbox
 https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Facebook
 
 ## Port Scanning
-Port scanning is not just for Netpen! A full port scan of all your new found targets will usually yield #win:
+Port scanning is not just for Netpen! A full port scan of all your new found targets will usually yield a #win:
 
 - separate webapps
 - extraneous services
