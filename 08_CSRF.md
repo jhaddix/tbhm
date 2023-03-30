@@ -1,6 +1,6 @@
 ### Testing CSRF On Application : 
 - Csrf Normal
-- Chnage Method To GET-Based
+- Change Method To GET-Based
 - Change Value Of CSRF-Token To undefined
 - Delete CSRF Token Value Or Delete Token Parameter
 - Use The same CSRF Value In Different Accounts
