@@ -15,12 +15,12 @@ A combination of my own methodology and the Web Application Hacker's Handbook Ta
 ## App Recon and analysis
 
 - [ ] Map visible content (Manually)
-- [ ] Discover hidden & default content (Direcory/File Bruteforce)
+- [ ] Discover hidden & default content (Directory/File Bruteforce)
 - [ ] Test for debug parameters
 - [ ] Identify data entry points (Discover Dynamic Content in Burp Pro)
-- [ ] Identify the technologies used (Wapplyzer or similiar)
-- [ ] Research existing vulnerabilitties in technology (Google ++)
-- [ ] Gather wordlists for specific techniology (Assetnote ones are excellent)
+- [ ] Identify the technologies used (Wapplyzer or similar)
+- [ ] Research existing vulnerabilities in technology (Google ++)
+- [ ] Gather wordlists for specific technology (Assetnote ones are excellent)
 - [ ] Map the attack surface automatically (Spider)
 - [ ] Identify all javascript files for later analysis (in your proxy)
 
@@ -48,7 +48,7 @@ A combination of my own methodology and the Web Application Hacker's Handbook Ta
 - [ ] Check cookie scope
 ### - [ ] Access controls
 - [ ] Understand the access control requirements
-- [ ] Test effectiveness of controls, using multiple accounts if possible
+- [ ] Test the effectiveness of controls, using multiple accounts if possible
 - [ ] Test for insecure access control methods (request parameters, Referer header, etc)
 
 ## Test handling of input
@@ -91,7 +91,7 @@ A combination of my own methodology and the Web Application Hacker's Handbook Ta
 - [ ] Default content
 - [ ] Dangerous HTTP methods
 - [ ] Proxy functionality
-- [ ] Virtual hosting mis-configuration
+- [ ] Virtual hosting misconfiguration
 - [ ] Bugs in web server software
 
 ## Miscellaneous tests
@@ -103,5 +103,5 @@ A combination of my own methodology and the Web Application Hacker's Handbook Ta
 - [ ] Caching
 - [ ] Sensitive data in URL parameters
 - [ ] Forms with autocomplete enabled
-- [ ] Follow up any information leakage
+- [ ] Follow up on any information leakage
 - [ ] Check for weak SSL ciphers
